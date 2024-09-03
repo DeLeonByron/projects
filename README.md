@@ -6,7 +6,7 @@ Este proyecto es una calculadora aritmética web desarrollada con Angular en el 
 
 ## Requisitos Previos
 
-Antes de comenzar, asegúrate de tener las siguientes herramientas instaladas en tu máquina:
+Antes de comenzar, asegurarse de tener las siguientes herramientas instaladas en el equipo.
 
 - [Node.js](https://nodejs.org/) (versión 14 o superior)
 - [Angular CLI](https://angular.io/cli) (versión 12 o superior)
@@ -20,7 +20,6 @@ Primero, clona el repositorio del proyecto a tu máquina local usando Git:
 
 ```bash
 git clone https://github.com/DeLeonByron/projects.git
-cd tu-repositorio
 ```
 
 ## Configuración del Frontend (Angular)
@@ -96,7 +95,7 @@ Para visualizar y probar los endpoints de la API, navega a `http://localhost:509
 
 ## Notas
 
-- Asegúrate de tener siempre la última versión de las dependencias.
+- Asegurarse de tener siempre la última versión de las dependencias.
 - El proyecto está configurado para un entorno de desarrollo
 
 Este README cubre todos los aspectos esenciales del proyecto, desde la instalación hasta la ejecución.
