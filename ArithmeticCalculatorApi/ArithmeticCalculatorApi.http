@@ -1,0 +1,17 @@
+@ArithmeticCalculatorApi_HostAddress = http://localhost:5090
+
+### Suma
+GET {{ArithmeticCalculatorApi_HostAddress}}/api/arithmeticcalculatorapi/sum?num1=5&num2=3
+Accept: application/json
+
+### Resta
+GET {{ArithmeticCalculatorApi_HostAddress}}/api/arithmeticcalculatorapi/subtract?num1=5&num2=3
+Accept: application/json
+
+### Multiplicación
+GET {{ArithmeticCalculatorApi_HostAddress}}/api/arithmeticcalculatorapi/multiply?num1=5&num2=3
+Accept: application/json
+
+### División
+GET {{ArithmeticCalculatorApi_HostAddress}}/api/arithmeticcalculatorapi/divide?num1=6&num2=3
+Accept: application/json

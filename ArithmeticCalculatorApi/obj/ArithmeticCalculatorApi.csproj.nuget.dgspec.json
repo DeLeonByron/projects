@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\byron.deleon\\source\\repos\\repoGithub\\projects\\ArithmeticCalculatorApi\\ArithmeticCalculatorApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\byron.deleon\\source\\repos\\repoGithub\\projects\\ArithmeticCalculatorApi\\ArithmeticCalculatorApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\byron.deleon\\source\\repos\\repoGithub\\projects\\ArithmeticCalculatorApi\\ArithmeticCalculatorApi.csproj",
+        "projectName": "ArithmeticCalculatorApi",
+        "projectPath": "C:\\Users\\byron.deleon\\source\\repos\\repoGithub\\projects\\ArithmeticCalculatorApi\\ArithmeticCalculatorApi.csproj",
+        "packagesPath": "C:\\Users\\byron.deleon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\byron.deleon\\source\\repos\\repoGithub\\projects\\ArithmeticCalculatorApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\byron.deleon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WPF.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.7.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
