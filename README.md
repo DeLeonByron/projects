@@ -85,7 +85,7 @@ Para visualizar y probar los endpoints de la API, navega a `http://localhost:509
 ### Frontend (Angular)
 
 - **src/app/views**: Contiene el componente de la calculadora.
-- **src/app/services**: Contiene los servicios de Angular que interactúan con la API backend.
+- **src/app/core/core/services/calculator.service.ts**: Contiene los servicios de Angular que interactúan con la API backend.
 - **src/environments**: Configuración del entorno, como las URLs de la API.
 
 ### Backend (ASP.NET Core)
