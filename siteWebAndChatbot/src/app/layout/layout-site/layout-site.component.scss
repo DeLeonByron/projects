@@ -1,0 +1,48 @@
+// Variables personalizadas
+$text-pink: #e91e63;
+$text-blue: #2196f3;
+$bg-soft-pink: #fff0f5;
+$bg-soft-blue: #e3f2fd;
+
+// Tipografía y colores
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #fefefe;
+  color: #333;
+}
+
+// Hero section
+#hero {
+  background: linear-gradient(135deg, $bg-soft-pink, $bg-soft-blue);
+  h1 {
+    color: $text-pink;
+    font-weight: 700;
+  }
+  p {
+    color: #666;
+  }
+}
+
+// Secciones
+section {
+  scroll-margin-top: 80px;
+}
+
+h2 {
+  color: $text-blue;
+  font-weight: bold;
+}
+
+// Cards
+.card {
+  border: none;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+  }
+  .card-title {
+    color: $text-pink;
+  }
+}

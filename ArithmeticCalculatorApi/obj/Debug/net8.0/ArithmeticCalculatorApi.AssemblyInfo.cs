@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArithmeticCalculatorApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afe29a90dcaea836f36513ad6df8567fea3d4884")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab9b9a9a1dae5cd113689ae0620456548a82681d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArithmeticCalculatorApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArithmeticCalculatorApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

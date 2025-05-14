@@ -1,0 +1,24 @@
+$baby-pink: #f8c6d8;
+$baby-blue: #cce4f7;
+$primary: #7fc6dd;
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+h1, h2, h3 {
+  color: $primary;
+}
+
+.text-pink {
+  color: $baby-pink;
+}
+
+footer {
+  background-color: $primary;
+}
+
+.card-img-top {
+  object-fit: cover;
+  height: 200px;
+}
